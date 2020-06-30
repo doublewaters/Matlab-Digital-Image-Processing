@@ -8,3 +8,6 @@
 5. 图像直方图统计和直方图均衡，要求显示直方图统计，比较直方图均衡后的效果。
 6. 能对图像加入各种噪声，并通过几种滤波算法实现去噪并显示结果。
 
+GUI界面效果如图所示：
+![](https://github.com/doublewaters/Matlab-Digital-Image-Processing/blob/master/1.png)
+![](https://github.com/doublewaters/Matlab-Digital-Image-Processing/blob/master/2.png)
